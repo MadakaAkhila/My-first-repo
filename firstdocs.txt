@@ -1,1 +1,2 @@
 Madaka Akhila- learning the Git-Hub
+This is the git hub repository 
